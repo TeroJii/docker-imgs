@@ -27,4 +27,4 @@ We can now access the container with the following command:
 docker exec -it ubuntu_r_1 R
 ```
 
-This will open an interactive R session in the container.
+This will open an interactive R session on the terminal. Use `quit()` to exit the R session.
